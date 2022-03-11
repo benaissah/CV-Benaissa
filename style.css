@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100;1,300&display=swap');
+
+h1{
+    color:rgb(223, 109, 20);
+}
+h2{color: rgb(150, 131, 236);
+    background-color: blue
+    font-size:40px;
+    text-align: center;
+
+    background-color: rgb(249, 219, 187);
+    background-color: center
+   
+   
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(254,251,238);
+   background opacity : 90%;
+   background-attachment: fixed;
+   background-size: cover;
+background-image:url(https://www.yourerc.com/hubfs/Imported_Blog_Media/how-to-make-hr-metrics-work-for-you-compressor-3.jpg);;
+}
+
+
+div {
+    background-color: rgb(226, 199, 188);
+    padding: 24px;
+    text-align: center;
+    width: 40%;
+    margin: 10px auto;
+    border-radius: 6px;
+    box-shadow: 1px 1px 5px 2px  #000000b5;
+}
+
+.exp-desc {
+    width:  70%;
+}
+
+     #avatar {
+        width: 125px;
+        height: 125px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 1px solid black;
+}
+
+#photo2 {
+        width: 125px;
+        height: 125px;
+        object-fit: contain;
+        text-align: center;
+
+}
+
+ #photo3 {
+        width: 125px;
+        height: 125px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 1px solid black;
+
+}
+ #photo4 {
+        width: 125px;
+        height: 125px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 1px solid black;
+}
+
+#photo5 {
+        width: 125px;
+        height: 125px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 1px solid black;
+}
+
+#photo6 {
+        width: 125px;
+        height: 125px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 1px solid black;
+}
+
+#photo7 {
+        width: 125px;
+        height: 125px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 1px solid black;
+
+
+}
+
+.logo-center {
+    width: 125px;
+    height: 125px;
+    object-fit: contain;
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+}
+    .btn-blue {
+    color: white;
+    background-color: blue;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-weight: bolder;
+    border: 1px solid blue;
+    transition: 1s;
+    font-size: 20px
+}
+
+    .btn-blue:hover {
+        background-color: green;
+        color: blue;
+        transition: 1s;
+    }
+
+    .list-inline {
+        padding: 0;
+        list-style: none;
+}
+
+    .list-inline li {
+        display: inline;
+        margin: 0 16px;
+        font-size: 40px;
+}
+
+.fa-brands {
+    color: rgba(0,0,0,4);
+}
+
+.fa-brands:hover{
+    color: black;
+}
